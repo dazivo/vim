@@ -15,6 +15,9 @@ set statusline=
 set statusline+=%-10.3n\
 set statusline+=%f\
 set statusline+=%h%m%r%w
+set tabstop=4
+set shiftwidth=4
+set expandtab
 " }}}
 
 " Useful Mappings -------------------- {{{ 
